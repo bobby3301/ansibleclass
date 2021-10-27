@@ -4,7 +4,7 @@
 
   vars:
       package:
-          -httpd
+          - httpd
           - mariadb-server
           - php
           - php-mysqlnd
